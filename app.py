@@ -1,4 +1,6 @@
 # Import necessary libraries
+!pip install openai
+
 import openai
 import streamlit as st
 from bs4 import BeautifulSoup
